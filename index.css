@@ -253,7 +253,7 @@ html{
         width: 0;
     }
     100%{
-        width: 95%;
+        width: 90%;
     }
 }
 
@@ -262,7 +262,7 @@ html{
         width: 0;
     }
     100%{
-        width: 85%;
+        width: 60%;
     }
 }
 @keyframes progreso3{
@@ -270,7 +270,7 @@ html{
         width: 0;
     }
     100%{
-        width: 75%;
+        width: 50%;
     }
 }
 @keyframes progreso4{
@@ -278,7 +278,7 @@ html{
         width: 0;
     }
     100%{
-        width: 90%;
+        width: 60%;
     }
 }
 @keyframes progreso5{
@@ -294,17 +294,17 @@ html{
         width: 0;
     }
     100%{
-        width: 95%;
+        width: 50%;
     }
 }
-@keyframes progreso7{
+/* @keyframes progreso7{
     0%{
         width: 0;
     }
     100%{
         width: 75%;
     }
-}
+} */
 /* SECTION PORTFOLIO */
 #portfolio {
     max-width: 1100px;
