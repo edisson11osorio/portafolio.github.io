@@ -24,8 +24,7 @@
     transition: .5s;
 }
 .button-home a:hover{
-    background-color: #b6ddd5;
-    color: #000000;
+    
 }
 .certificaciones{
     display: inline-block;
@@ -35,6 +34,7 @@
     width: 35%;
     height: 35%;
     border: solid #000000 2px;
+    border-radius: 10px;
 
 }
 .certificaciones a:hover{
