@@ -358,11 +358,32 @@ html{
     bottom: 0;
 }
 
+.button-certificaiones{
+    text-align: center;
+    max-width: 1400px;
+    max-height: 800px;
 
-
+}
+.button-certificaiones a{
+    text-decoration: none;
+    display: inline-block;
+    margin: 25px;
+    padding: 20px 25px;
+    border: 2px solid #fff;
+    border-radius: 50px;
+    color: #000000;
+    background-color: #118267;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: .5s;
+}
+.button-certificaiones a:hover{
+    background-color: #ffffff;
+    color: #000000;
+}
 
 /* SECTION CONTAC */
-#contacto{
+/* #contacto{
     padding: 100px 15px;
 }
 #contacto .title-section{
@@ -412,7 +433,7 @@ html{
 #contacto .btn-enviar:hover{
     background-color: #207F99;
     color: #fff;
-}
+} */
 
 footer{
     background-color: #000;
