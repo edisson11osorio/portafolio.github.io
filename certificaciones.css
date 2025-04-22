@@ -23,6 +23,10 @@
     text-transform: uppercase;
     transition: .5s;
 }
+.button-home a:hover{
+    background-color: #b6ddd5;
+    color: #000000;
+}
 .certificaciones{
     display: inline-block;
     margin-left: 10px;
